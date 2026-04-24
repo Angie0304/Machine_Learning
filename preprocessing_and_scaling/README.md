@@ -45,3 +45,6 @@ The notebook will:
 ## Dataset 
 
 The dataset used in this project was provided as part of a Machine Learning course and is not included in this repository. The notebook can be adapted to any tabular dataset with numerical features to apply preprocessing and scaling techniques.
+
+## Status 
+Complete
