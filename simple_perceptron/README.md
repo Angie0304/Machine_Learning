@@ -46,8 +46,7 @@ jupyter notebook notebooks/Perceptron_Simple.ipynb
 3. Output
 The notebooks will:
 
-Preprocess the dataset
-Train the Simple Perceptron model
-Generate predictions on the processed data
-Save results in the data/processed/ directory
+- Preprocess the dataset
+- Generate predictions on the processed data
+- Save results in the data/processed/ directory
 
