@@ -27,16 +27,17 @@ The module follows these steps:
 
 1.⁠ ⁠Install dependencies
 
-```
+``` bash
 pip install -r requirements.txt
 
 ```
 
 2.⁠ ⁠Run the notebook
-⁠```
+⁠
+```
 jupyter notebook preprocessing_and_scaling.ipynb
- ```
 
+```
 3.⁠ ⁠Output
 
 The notebook will:
