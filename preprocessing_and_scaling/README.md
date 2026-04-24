@@ -1,11 +1,11 @@
-# Scaling Comparison
+# Feature Scaling Impact on Regression Models
 
 
 
 ## Module Structure 
 ```text
 preprocessing_and_scaling/
-├── comparación_escalamiento.ipynb  # Feature Scaling: Normalization vs Standardization
+├── comparación_escalamiento.ipynb  # Scaling on linear and polynomial regression models
 ├── requirements.txt                # Dependencies
 └── README.md                       # Documentation and execution guide
 ```
@@ -14,12 +14,12 @@ preprocessing_and_scaling/
 
 The module follows these steps:
 
-1. Load and explore the dataset
-2. Clean and preprocess the data if necessary
-3. Apply Min-Max normalization to rescale features
-4. Apply Z-score standardization to normalize distributions
-5. Compare the effects of each scaling method
-6. Analyze how scaling impacts the data representation
+1. Load and split the dataset into training and testing sets
+2. Train linear and polynomial regression models without scaling
+3. Apply feature scaling techniques (standard and robust scaling)
+4. Retrain the models using scaled data
+5. Evaluate model performance using MSE and R²
+6. Compare the impact of scaling on model performance
 
 
 ## Usage
@@ -39,8 +39,8 @@ jupyter notebook preprocessing_and_scaling.ipynb
 
 The notebook will:
 
-- Compare the results of both scaling techniques  
-- Visualize the differences between methods
+- Compare model performance using MSE and R²  
+- Analyze the impact of scaling on predictions  
 
 ## Dataset 
 
