@@ -2,6 +2,7 @@
 
 # Module Structure
 
+```text
 simple_perceptron/
 ├── data/
 │   ├── raw/                          # Original dataset
@@ -16,3 +17,4 @@ simple_perceptron/
 │   └── Preprocesamiento_Dataset.ipynb
 ├── README.md                         # Documentation and execution guide
 └── requirements.txt                  # Dependencies
+```
