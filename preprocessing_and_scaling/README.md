@@ -5,9 +5,9 @@
 ## Module Structure 
 ```text
 preprocessing_and_scaling/
-├── comparación_escalamiento.ipynb  # Scaling on linear and polynomial regression models
-├── requirements.txt                # Dependencies
-└── README.md                       # Documentation and execution guide
+├── README.md                        # Documentation and execution guide
+├── requirements.txt                 # Dependencies
+└── scaling_impact_regression.ipynb  # Scaling on linear and polynomial regression models
 ```
 
 ## How it works
