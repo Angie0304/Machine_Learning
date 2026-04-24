@@ -50,3 +50,6 @@ The notebooks will:
 - Generate predictions on the processed data
 - Save results in the data/processed/ directory
 
+## Status 
+Completed
+
