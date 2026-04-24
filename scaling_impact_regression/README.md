@@ -7,8 +7,8 @@
 ``` text 
 preprocessing_and_scaling/
 ├── README.md                              # Documentation and execution guide
-├── requirements.txt                       # Dependencies
-└── impacto_escalamiento_regresion.ipynb   # Scaling on linear and polynomial regression models
+├── impacto_escalamiento_regresion.ipynb   # Scaling on linear and polynomial regression models
+└── requirments.txt                        # Dependencies
 ```
 
 ## How it works
