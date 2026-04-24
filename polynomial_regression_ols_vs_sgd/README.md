@@ -5,7 +5,7 @@
 # Module Structure 
 
 ``` text 
-polynomial_regression_ols_vs_sgd/
+regression_ols_vs_sgd/
 ├── README.md                              # Documentation and execution guide
 ├── comparacion_ols_vs_sgd.ipynb
 └── requirments.txt                        # Dependencies
