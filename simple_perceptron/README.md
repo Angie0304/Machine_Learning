@@ -14,3 +14,5 @@ simple_perceptron/
 ├── notebooks/                        # Implementation and preprocessing
 │   ├── Perceptron_Simple.ipynb
 │   └── Preprocesamiento_Dataset.ipynb
+├── README.md                         # Documentation and execution guide
+└── requirements.txt                  # Dependencies
