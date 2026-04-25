@@ -1,6 +1,6 @@
 # Feature Scaling Impact on Regression Models
 
-This module analyzes the impact of feature scaling techniques on regression models, comparing model performance before and after applying scaling methods. It evaluates how scaling affects prediction accuracy and model behavior using different regression configurations.
+This module analyzes the impact of feature scaling techniques on regression models, comparing model performance before and after applying scaling methods.
 
 ## Module Structure 
 
