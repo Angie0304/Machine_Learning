@@ -6,7 +6,7 @@ This module implements multivariate linear regression using Batch Gradient Desce
 ``` text 
 preprocessing_and_scaling/
 ├── README.md                 # Documentation and execution guide
-├── bgd_multivariable.ipynb   # Multivariate linear regression with BGD
+├── bgd_multivariable.ipynb   # Multivariate linear regression using BGD
 └── requirments.txt           # Dependencies
 ```
 
