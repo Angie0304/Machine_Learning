@@ -44,7 +44,7 @@ The notebook will:
 - Visualize predictions against actual data
 
 # Dataset 
-The dataset used in this project was provided as part of a Machine Learning course and is not included in this repository. The notebook can be adapted to any tabular dataset with numerical features to train and evaluate regression models.
+The dataset used in this module was provided as part of a Machine Learning course and is not included in this repository. The notebook can be adapted to any tabular dataset with numerical features to train and evaluate regression models.
 
 # Status 
 Complete 
