@@ -16,12 +16,12 @@ preprocessing_and_scaling/
 The module follows these steps:
 
 
-1.⁠ ⁠Load and split the dataset into training and testing sets
-2.⁠ ⁠Train linear and polynomial regression models without scaling
-3.⁠ ⁠Apply feature scaling techniques (standard and robust scaling)
-4.⁠ ⁠Retrain the models using scaled data
-5.⁠ ⁠Evaluate model performance using MSE and R²
-6.⁠ ⁠Compare the impact of scaling on model performance
+1. Load and split the dataset into training and testing sets
+2. ⁠Train linear and polynomial regression models without scaling
+3. ⁠Apply feature scaling techniques (standard and robust scaling)
+4. ⁠⁠Retrain the models using scaled data
+5. Evaluate model performance using MSE and R²
+6. ⁠Compare the impact of scaling on model performance
 
 
 ## Usage
