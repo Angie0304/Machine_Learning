@@ -1,4 +1,4 @@
-# Multivariate Linear Regression with Batch Gradient Descent
+# Multivariate Linear Regression with BGD
 
 
 ## Module Structure 
