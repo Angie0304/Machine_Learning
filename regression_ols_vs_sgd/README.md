@@ -1,5 +1,5 @@
 # Regression Analysis with OLS and SGD
-This module implements linear and polynomial regression models using OLS and SGD, comparing their performance across different configurations.
+This module implements linear and polynomial regression models using Ordinary Least Squares (OLS) and Stochastic Gradient Descent (SGD), comparing their performance across different configurations.
 
 ## Module Structure 
 
@@ -14,14 +14,14 @@ preprocessing_and_scaling/
 
 The module follows these steps:
 
-1. Load and split the dataset
-2. Train linear regression (OLS)
-3. Train polynomial models (degree 2 and 3)
-4. Evaluate performance (MSE, R²)
-5. Set SGD parameters
-6. Train models using SGD
-7. Compare results
-8. Visualize predictions
+1. Load the dataset and split it into training and testing sets
+2. Train linear regression OLS
+3. Train polynomial regression models (degree 2 and 3) using OLS
+4. Evaluate model performance using MSE and R²
+5. Define SGD parameters (number of iterations and learning rate)
+6. Train linear and polynomial regression models using SGD
+7. Compare results across models and optimization methods
+8. Visualize predictions against actual data
 
 
 ## Usage
