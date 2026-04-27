@@ -51,5 +51,5 @@ The notebooks will:
 - Save results in the data/processed/ directory
 
 ## Status 
-Completed
+Complete
 
